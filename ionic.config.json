@@ -1,0 +1,7 @@
+{
+  "name": "dynamiclink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
